@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import NavBar from './components/navbar/NavBar';
 import Home from "./pages/home/Home"
@@ -13,7 +13,7 @@ import NotFound from './pages/notfound/NotFound';
 function App() {
   return (
     <div className="App">
-    <BrowserRouter>
+    <HashRouter>
     <NavBar />
     <Routes>
       <Route index element={<Home />}/>
@@ -25,7 +25,7 @@ function App() {
       <Route path='*' element={<NotFound />} />
     </Routes>
     <Footer />
-    </BrowserRouter>
+    </HashRouter>
     </div>
   );
 }
