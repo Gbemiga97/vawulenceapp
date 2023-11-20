@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vawulenceapp/static/css/main.70f2b36f.css",
+    "main.js": "/vawulenceapp/static/js/main.d8d41880.js",
+    "static/js/787.65d87343.chunk.js": "/vawulenceapp/static/js/787.65d87343.chunk.js",
+    "static/media/trainer4.jpg": "/vawulenceapp/static/media/trainer4.c0c84054934730eb658a.jpg",
+    "static/media/trainer3.jpg": "/vawulenceapp/static/media/trainer3.e530422b62105640fc6d.jpg",
+    "static/media/trainer1.jpg": "/vawulenceapp/static/media/trainer1.6e000edfecf48b446bcd.jpg",
+    "static/media/trainer5.jpg": "/vawulenceapp/static/media/trainer5.6a8eee1279ea02be53c7.jpg",
+    "static/media/trainer2.jpg": "/vawulenceapp/static/media/trainer2.50ed6b0e7304a28d987d.jpg",
+    "static/media/trainer6.jpg": "/vawulenceapp/static/media/trainer6.d060ff98bdc67ac8ddf3.jpg",
+    "static/media/avatar5.jpg": "/vawulenceapp/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "index.html": "/vawulenceapp/index.html",
+    "main.70f2b36f.css.map": "/vawulenceapp/static/css/main.70f2b36f.css.map",
+    "main.d8d41880.js.map": "/vawulenceapp/static/js/main.d8d41880.js.map",
+    "787.65d87343.chunk.js.map": "/vawulenceapp/static/js/787.65d87343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70f2b36f.css",
+    "static/js/main.d8d41880.js"
+  ]
+}
